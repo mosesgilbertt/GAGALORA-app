@@ -4,8 +4,6 @@
 
 GAGAGLORA App is a web application built using TypeScript, the NEXT.js framework, and MongoDB as the database. This project is designed to be a valuable addition to your portfolio, so make sure to complete it thoroughly.
 
-In this challenge, you are tasked with creating a client-server application with the following details:
-
 ### Pages
 
 - Register Page
