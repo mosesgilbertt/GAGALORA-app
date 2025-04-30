@@ -1,0 +1,12 @@
+/* Styling untuk tombol navigasi Swiper */
+.swiper-button-next,
+.swiper-button-prev {
+  color: black !important; /* Ganti warna panah menjadi hitam */
+  font-size: 1.5rem; /* Sesuaikan ukuran panah */
+  transition: color 0.3s ease; /* Tambahkan efek transisi */
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  color: #333 !important; /* Warna saat hover */
+}

@@ -1,0 +1,548 @@
+{
+  "users": [],
+  "wishlist": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "Kemeja Pria Slim Fit",
+      "slug": "kemeja-pria-slim-fit",
+      "description": "Kemeja Pria Slim Fit dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Kemeja Pria Slim Fit gaya kekinian.",
+      "price": 118712,
+      "tags": ["pria", "kasual", "atasan"],
+      "thumbnail": "https://dynamic.zacdn.com/Vx0_ROpwm_KD_bIidA-mvRaNc7k=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-man-9550-0345874-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/lKZgseJKcvow-E4HYuEDSAFPqzk=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-man-9550-0345874-2.jpg",
+        "https://dynamic.zacdn.com/lKZgseJKcvow-E4HYuEDSAFPqzk=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-man-9550-0345874-2.jpg",
+        "https://dynamic.zacdn.com/zfKNmJGopxxPLY4zz4V-UhcYIKg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-man-9550-0345874-4.jpg"
+      ],
+      "createdAt": "2024-11-01T16:56:21.440495Z",
+      "updatedAt": "2025-04-03T16:56:21.440495Z"
+    },
+    {
+      "id": 2,
+      "name": "Dress Wanita Floral",
+      "slug": "dress-wanita-floral",
+      "description": "Dress Wanita Floral dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Dress Wanita Floral gaya kekinian.",
+      "price": 499876,
+      "tags": ["wanita", "santai", "atasan"],
+      "thumbnail": "https://dynamic.zacdn.com/xBp-hW98dAWFtB9NzqpPUeoxfI0=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-1017-6469354-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/aebovBmcGu8xFRMG456ojN2I6eg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-1017-6469354-2.jpg",
+        "https://dynamic.zacdn.com/axxCtRphKipvx9BKWO5CdM0FYV8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-1018-6469354-3.jpg",
+        "https://dynamic.zacdn.com/r-xJ3T7cDhrJGKZ3nT2N_07YtFs=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-1018-6469354-4.jpg"
+      ],
+      "createdAt": "2025-02-08T16:56:21.440495Z",
+      "updatedAt": "2025-04-12T16:56:21.440495Z"
+    },
+    {
+      "id": 3,
+      "name": "Sneakers Kasual Putih",
+      "slug": "sneakers-kasual-putih",
+      "description": "Sneakers Kasual Putih dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Sneakers Kasual Putih gaya kekinian.",
+      "price": 552116,
+      "tags": ["unisex", "kasual", "sepatu"],
+      "thumbnail": "https://dynamic.zacdn.com/YSAzxTRd3oXwwFFqltaRofeB9e8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/veja-9454-3508004-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/qGpgPfcAS0xOtBUO3FkXsxhJ3QE=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/veja-9455-3508004-2.jpg",
+        "https://dynamic.zacdn.com/0OcL6KNYhJHw8Z1XD0_rV4UMhtA=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/veja-9455-3508004-3.jpg",
+        "https://dynamic.zacdn.com/y7ZbVB_jZzsdGJ_nqx0Dg3X1LCY=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/veja-9457-3508004-4.jpg"
+      ],
+      "createdAt": "2024-11-05T16:56:21.440495Z",
+      "updatedAt": "2025-04-03T16:56:21.440495Z"
+    },
+    {
+      "id": 4,
+      "name": "Celana Jeans Skinny",
+      "slug": "celana-jeans-skinny",
+      "description": "Celana Jeans Skinny dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Celana Jeans Skinny gaya kekinian.",
+      "price": 152540,
+      "tags": ["pria", "santai", "celana"],
+      "thumbnail": "https://dynamic.zacdn.com/Mn0agcd2EUbqXinsRGv66DY-AHw=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/bombboogie-2542-1559164-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/83p2S9VPU1f8yls1UtAgdFoelTg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/bombboogie-2542-1559164-2.jpg",
+        "https://dynamic.zacdn.com/Jm4irzvt2OJcxBuvPEjtOUrAbe4=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/bombboogie-2542-1559164-3.jpg",
+        "https://dynamic.zacdn.com/9DT8bBpOn2dJowJqGnvoQgyKprw=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/bombboogie-2542-1559164-4.jpg"
+      ],
+      "createdAt": "2025-01-21T16:56:21.440495Z",
+      "updatedAt": "2025-04-12T16:56:21.440495Z"
+    },
+    {
+      "id": 5,
+      "name": "Blazer Wanita Formal",
+      "slug": "blazer-wanita-formal",
+      "description": "Blazer Wanita Formal dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Blazer Wanita Formal gaya kekinian.",
+      "price": 473107,
+      "tags": ["wanita", "elegan", "luaran"],
+      "thumbnail": "https://dynamic.zacdn.com/FjDFqXN4otuulNJXX3Pfh930AyQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/cardinal-5024-9635824-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/CMM54xdmszV7n2T0GyWLDgUI-FQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/cardinal-5025-9635824-2.jpg",
+        "https://dynamic.zacdn.com/_PiGArnwXoB-7r5S2aZVFyGBARU=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/cardinal-5025-9635824-3.jpg",
+        "https://dynamic.zacdn.com/7Km0IRhf-QMVcFi5JE5uHj0Sjek=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/cardinal-5026-9635824-4.jpg"
+      ],
+      "createdAt": "2025-02-13T16:56:21.440495Z",
+      "updatedAt": "2025-03-27T16:56:21.440495Z"
+    },
+    {
+      "id": 6,
+      "name": "Kaos Oversize Pria",
+      "slug": "kaos-oversize-pria",
+      "description": "Kaos Oversize Pria dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Kaos Oversize Pria gaya kekinian.",
+      "price": 316629,
+      "tags": ["pria", "santai", "atasan"],
+      "thumbnail": "https://dynamic.zacdn.com/BBie7ej039nVRO7BPpDHmAo7-N8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hammer-5585-4144574-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/TTOxRiYl4iLafZN3N__8KAa2qkY=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hammer-5585-4144574-2.jpg",
+        "https://dynamic.zacdn.com/2Cn-TXVOfH938AwDx6-iQaQ9A4c=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hammer-5585-4144574-3.jpg",
+        "https://dynamic.zacdn.com/6cY9JaHe1T0YZ327ntEjFRUZIsU=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hammer-5586-4144574-4.jpg"
+      ],
+      "createdAt": "2025-01-23T16:56:21.440495Z",
+      "updatedAt": "2025-03-26T16:56:21.440495Z"
+    },
+    {
+      "id": 7,
+      "name": "Rok Plisket Panjang",
+      "slug": "rok-plisket-panjang",
+      "description": "Rok Plisket Panjang dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Rok Plisket Panjang gaya kekinian.",
+      "price": 201471,
+      "tags": ["wanita", "santai", "bawahan"],
+      "thumbnail": "https://dynamic.zacdn.com/2dfYAYFg_5z5M9JvD5ER37p_T88=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/luire-by-raden-sirait-6136-7221254-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/HmKwLZh4ulxb17f3c0s_lv73PlM=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/luire-by-raden-sirait-6136-7221254-2.jpg",
+        "https://dynamic.zacdn.com/9tXrLqg25B84sD4rpjcFrB2OF6k=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/luire-by-raden-sirait-6137-7221254-3.jpg",
+        "https://dynamic.zacdn.com/tfDyfs8ebBWfYndsVAi8NJ08YBI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/luire-by-raden-sirait-6137-7221254-4.jpg"
+      ],
+      "createdAt": "2024-11-29T16:56:21.440495Z",
+      "updatedAt": "2025-04-19T16:56:21.440495Z"
+    },
+    {
+      "id": 8,
+      "name": "Jaket Denim Biru",
+      "slug": "jaket-denim-biru",
+      "description": "Jaket Denim Biru dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Jaket Denim Biru gaya kekinian.",
+      "price": 707863,
+      "tags": ["pria", "santai", "luaran"],
+      "thumbnail": "https://dynamic.zacdn.com/0j-SwsvsIg-xvciuUqdaO3iGliA=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-2310-7416654-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/JcXksudwKAT9waQrBlsj6bOTUO8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-2310-7416654-2.jpg",
+        "https://dynamic.zacdn.com/YYfJMZPKlYlqjQ4EBhFzfGHJ0xc=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-2310-7416654-3.jpg",
+        "https://dynamic.zacdn.com/dRWSvUG35FjSG3NKS9GlE-YUqvc=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-2311-7416654-4.jpg"
+      ],
+      "createdAt": "2025-03-08T16:56:21.440495Z",
+      "updatedAt": "2025-04-16T16:56:21.440495Z"
+    },
+    {
+      "id": 9,
+      "name": "Sepatu Boots Wanita",
+      "slug": "sepatu-boots-wanita",
+      "description": "Sepatu Boots Wanita dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Sepatu Boots Wanita gaya kekinian.",
+      "price": 337899,
+      "tags": ["wanita", "casual", "sepatu"],
+      "thumbnail": "https://dynamic.zacdn.com/KVG3Z3ZwTBQxdaLIA0MyZ4QI2Oc=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-9083-6241674-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/DXDKM9PKEiWdEI0cuoHesaaXwiY=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-9083-6241674-2.jpg",
+        "https://dynamic.zacdn.com/MHA-vbVhKkgzEwjGgTeeb3xc3Ak=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-9084-6241674-3.jpg",
+        "https://dynamic.zacdn.com/g-PiPg6A64Srlk7kZc6E5EvfCG8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-9084-6241674-4.jpg"
+      ],
+      "createdAt": "2025-03-14T16:56:21.440495Z",
+      "updatedAt": "2025-04-04T16:56:21.440495Z"
+    },
+    {
+      "id": 10,
+      "name": "Tas Selempang Kulit",
+      "slug": "tas-selempang-kulit",
+      "description": "Tas Selempang Kulit dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Tas Selempang Kulit gaya kekinian.",
+      "price": 167651,
+      "tags": ["unisex", "santai", "tas"],
+      "thumbnail": "https://dynamic.zacdn.com/5T2Ev9D0miRMWakiu63IBwOjYYo=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/adidas-6433-9344044-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/OzTYt6SWfux5U4W_Ne1fGuv6Nb0=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/adidas-9288-9344044-2.jpg",
+        "https://dynamic.zacdn.com/PFVKZCCuG58Ds6yGg_jK_hOhCRk=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/adidas-9288-9344044-3.jpg",
+        "https://dynamic.zacdn.com/kXZ_tHE00fnWO975h7XsDqnNcvI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/adidas-9289-9344044-5.jpg"
+      ],
+      "createdAt": "2024-12-22T16:56:21.440495Z",
+      "updatedAt": "2025-04-14T16:56:21.440495Z"
+    },
+    {
+      "id": 11,
+      "name": "Sweater Rajut Pria",
+      "slug": "sweater-rajut-pria",
+      "description": "Sweater Rajut Pria dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Sweater Rajut Pria gaya kekinian.",
+      "price": 348614,
+      "tags": ["pria", "santai", "luaran"],
+      "thumbnail": "https://dynamic.zacdn.com/X3pgqBHd74lQwFVvFkuxS0OsKQ8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-4009-4622654-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/KNSxCd0ENs_8Yyph0FE8_T-j21I=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-4010-4622654-2.jpg",
+        "https://dynamic.zacdn.com/yDnhPLvUuP8QYUjetOFgZsTiEBY=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-4010-4622654-4.jpg",
+        "https://dynamic.zacdn.com/YxDF9nW7iS7IT1FdirFHfjyfe5s=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-4010-4622654-3.jpg"
+      ],
+      "createdAt": "2025-02-26T16:56:21.440495Z",
+      "updatedAt": "2025-04-11T16:56:21.440495Z"
+    },
+    {
+      "id": 12,
+      "name": "Blouse Wanita Casual",
+      "slug": "blouse-wanita-casual",
+      "description": "Blouse Wanita Casual dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Blouse Wanita Casual gaya kekinian.",
+      "price": 441659,
+      "tags": ["wanita", "formal", "atasan"],
+      "thumbnail": "https://dynamic.zacdn.com/3wg-4kw3olqzZIEF9JNdAdXGqjA=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/exit-2848-8983174-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/1o0G95oYIqo03lxasI17lV-KYKY=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/exit-2848-8983174-2.jpg",
+        "https://dynamic.zacdn.com/jjmrHOk7yV4bblMf4LUQInvBwHU=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/exit-2849-8983174-3.jpg",
+        "https://dynamic.zacdn.com/thJCwyjG_EuyObfKBL2GXiBGLI8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/exit-2850-8983174-4.jpg"
+      ],
+      "createdAt": "2024-11-24T16:56:21.440495Z",
+      "updatedAt": "2025-04-02T16:56:21.440495Z"
+    },
+    {
+      "id": 13,
+      "name": "Sandal Flat Wanita",
+      "slug": "sandal-flat-wanita",
+      "description": "Sandal Flat Wanita dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Sandal Flat Wanita gaya kekinian.",
+      "price": 371749,
+      "tags": ["wanita", "formal", "sepatu"],
+      "thumbnail": "https://dynamic.zacdn.com/-tkcrdGVGrcBuA02302HDoz-zsU=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/fransisca-renaldy-5074-8946583-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/nx2zN7B_RhvEDaxAG01lk46Wu3Y=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/fransisca-renaldy-5074-8946583-2.jpg",
+        "https://dynamic.zacdn.com/GMU-gZP0ntLtWXAGjTGFMQlO_2M=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/fransisca-renaldy-5074-8946583-3.jpg",
+        "https://dynamic.zacdn.com/ND3k_ckHw8HrjQBDjzQMFuVUVCs=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/fransisca-renaldy-5075-8946583-4.jpg"
+      ],
+      "createdAt": "2024-11-17T16:56:21.440495Z",
+      "updatedAt": "2025-03-31T16:56:21.440495Z"
+    },
+    {
+      "id": 14,
+      "name": "Topi Baseball",
+      "slug": "topi-baseball",
+      "description": "Topi Baseball dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Topi Baseball gaya kekinian.",
+      "price": 528038,
+      "tags": ["unisex", "santai", "topi"],
+      "thumbnail": "https://dynamic.zacdn.com/_6nw0WKOGOqrAeBRcR-uUl4X_CM=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hamlin-6194-7738313-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/lku_IF_gmOrZ-XPlMPhIANT5374=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hamlin-6194-7738313-2.jpg",
+        "https://dynamic.zacdn.com/WOBnDImaeYCkiB4_vM_KHrOJ9R8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hamlin-6194-7738313-3.jpg",
+        "https://dynamic.zacdn.com/fu62Nh-sS3yjxMHhSiMB1IEm5YM=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/hamlin-6194-7738313-4.jpg"
+      ],
+      "createdAt": "2025-02-25T16:56:21.440495Z",
+      "updatedAt": "2025-04-06T16:56:21.440495Z"
+    },
+    {
+      "id": 15,
+      "name": "Kacamata Hitam",
+      "slug": "kacamata-hitam",
+      "description": "Kacamata Hitam dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Kacamata Hitam gaya kekinian.",
+      "price": 689167,
+      "tags": ["unisex", "elegan", "kacamata"],
+      "thumbnail": "https://dynamic.zacdn.com/QF6Zb3uLct8jmIhdntt-BW9PAh0=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/prada-7502-8452164-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/yz3naKR4NpuVPYIL-fpb2N0D6jk=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/prada-7503-8452164-2.jpg",
+        "https://dynamic.zacdn.com/-DPdtvN0BwthYaY3KXAcXwlqZFI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/prada-7503-8452164-3.jpg",
+        "https://dynamic.zacdn.com/iVfxkjJxiYBAE5lFNaupPd7Cn1s=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/prada-7503-8452164-4.jpg"
+      ],
+      "createdAt": "2024-11-04T16:56:21.440495Z",
+      "updatedAt": "2025-04-23T16:56:21.440495Z"
+    },
+    {
+      "id": 16,
+      "name": "Jam Tangan Digital",
+      "slug": "jam-tangan-digital",
+      "description": "Jam Tangan Digital dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Jam Tangan Digital gaya kekinian.",
+      "price": 575544,
+      "tags": ["unisex", "santai", "jam"],
+      "thumbnail": "https://dynamic.zacdn.com/tSjaMbbQpSof5BrqbeHJY8eDAKs=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/casio-4067-4543784-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/WwKFsnzIQPpnUuFsUOzgbkg6bj0=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/casio-4068-4543784-2.jpg",
+        "https://dynamic.zacdn.com/lbSwjSlPwNpdqUsw5HcxhXir9Kg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/casio-4068-4543784-3.jpg",
+        "https://dynamic.zacdn.com/dcWxFmSZEvuVB0lDWHtkE6WIPmc=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/casio-4069-4543784-4.jpg"
+      ],
+      "createdAt": "2025-01-03T16:56:21.440495Z",
+      "updatedAt": "2025-03-26T16:56:21.440495Z"
+    },
+    {
+      "id": 17,
+      "name": "Dompet Kulit Asli",
+      "slug": "dompet-kulit-asli",
+      "description": "Dompet Kulit Asli dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Dompet Kulit Asli gaya kekinian.",
+      "price": 351804,
+      "tags": ["unisex", "kasual", "dompet"],
+      "thumbnail": "https://dynamic.zacdn.com/5wGLuqQx8a51UJJ34jJtTGNTLLI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/swiss-polo-1670-1130282-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/JeKD-2jlYDUswp8-IS1O6CZGaMU=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/swiss-polo-1670-1130282-2.jpg",
+        "https://dynamic.zacdn.com/vdf3zIyXEpUg-ulbr97wU0c5VRE=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/swiss-polo-1671-1130282-3.jpg",
+        "https://dynamic.zacdn.com/zcx-iApb9RIZxRsXR_ePIVQfgA4=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/swiss-polo-1671-1130282-4.jpg"
+      ],
+      "createdAt": "2025-02-27T16:56:21.440495Z",
+      "updatedAt": "2025-04-07T16:56:21.440495Z"
+    },
+    {
+      "id": 18,
+      "name": "Kaos Polos Putih",
+      "slug": "kaos-polos-putih",
+      "description": "Kaos Polos Putih dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Kaos Polos Putih gaya kekinian.",
+      "price": 572645,
+      "tags": ["pria", "santai", "atasan"],
+      "thumbnail": "https://dynamic.zacdn.com/rgT1wYU-pndfudVC698Wzjsvt-g=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/boss-2827-8732134-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/Sjs5NK_1N8EZ7rspUDq6IPdi40A=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/boss-2828-8732134-2.jpg",
+        "https://dynamic.zacdn.com/9DgsbrgLjx-iVSUPrAmU8oVWkGQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/boss-2828-8732134-3.jpg",
+        "https://dynamic.zacdn.com/AloPYTZsnFTaUw0dXZA1aSBY6es=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/boss-2828-8732134-4.jpg"
+      ],
+      "createdAt": "2025-02-11T16:56:21.440495Z",
+      "updatedAt": "2025-04-11T16:56:21.440495Z"
+    },
+    {
+      "id": 19,
+      "name": "Hoodie Pria Hitam",
+      "slug": "hoodie-pria-hitam",
+      "description": "Hoodie Pria Hitam dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Hoodie Pria Hitam gaya kekinian.",
+      "price": 143216,
+      "tags": ["pria", "santai", "luaran"],
+      "thumbnail": "https://dynamic.zacdn.com/IYK3OPV69ddxFzowaPvQRHGW3nM=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/third-day-1667-4978054-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/IYK3OPV69ddxFzowaPvQRHGW3nM=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/third-day-1667-4978054-1.jpg",
+        "https://dynamic.zacdn.com/poQyYseURxuqqOQChy3MudHCcWQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/third-day-1668-4978054-2.jpg"
+      ],
+      "createdAt": "2025-03-21T16:56:21.440495Z",
+      "updatedAt": "2025-04-03T16:56:21.440495Z"
+    },
+    {
+      "id": 20,
+      "name": "Jumpsuit Wanita",
+      "slug": "jumpsuit-wanita",
+      "description": "Jumpsuit Wanita dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Jumpsuit Wanita gaya kekinian.",
+      "price": 253284,
+      "tags": ["wanita", "santai", "luaran"],
+      "thumbnail": "https://dynamic.zacdn.com/1_OtR4nPLW1GcfJwI06OA4I9Cxs=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-7025-3161654-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/pVhpGUUvVuR8AyNU4Ztjp0OHgNk=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-7025-3161654-2.jpg",
+        "https://dynamic.zacdn.com/UJxIy8S1pvKJhEY04RP2lEnycEI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-7025-3161654-3.jpg",
+        "https://dynamic.zacdn.com/_2j7dUG_q6zn1JAYg7aKQ0FNTQQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-7026-3161654-4.jpg"
+      ],
+      "createdAt": "2024-12-14T16:56:21.440495Z",
+      "updatedAt": "2025-03-30T16:56:21.440495Z"
+    },
+    {
+      "id": 21,
+      "name": "Celana Jogger",
+      "slug": "celana-jogger",
+      "description": "Celana Jogger dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Celana Jogger gaya kekinian.",
+      "price": 272684,
+      "tags": ["wanita", "sporty", "celana"],
+      "thumbnail": "https://dynamic.zacdn.com/2GxvyjsuniNHNsHQXWmHUwYOM2w=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/alacati-7392-0780793-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/iT0mR1Eu3CkPlJYffPMXAa6eT5k=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/alacati-7392-0780793-2.jpg",
+        "https://dynamic.zacdn.com/qBP8_oFytcIH6V0nOPDAYFYmwP8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/alacati-7392-0780793-3.jpg",
+        "https://dynamic.zacdn.com/IQG34o3wkrIrORqRcRv3jVsFpQ4=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/alacati-7393-0780793-4.jpg"
+      ],
+      "createdAt": "2025-01-09T16:56:21.440495Z",
+      "updatedAt": "2025-04-16T16:56:21.440495Z"
+    },
+    {
+      "id": 22,
+      "name": "Sepatu Loafers Pria",
+      "slug": "sepatu-loafers-pria",
+      "description": "Sepatu Loafers Pria dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Sepatu Loafers Pria gaya kekinian.",
+      "price": 466228,
+      "tags": ["Pria", "elegan", "sepatu"],
+      "thumbnail": "https://dynamic.zacdn.com/4KWn2rijN5hLLg5ztmgPaPmQVic=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-man-8812-9335584-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/XE7vOSEZJwMIKbNqs50EcMTDA24=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-man-8812-9335584-2.jpg",
+        "https://dynamic.zacdn.com/UZLsLbsdMalR_NbMnyWKi8iV9IA=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-man-8812-9335584-3.jpg",
+        "https://dynamic.zacdn.com/Bm-sEzBjx9PqfN4KTsbJ6x_Uw_k=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/mango-man-8812-9335584-4.jpg"
+      ],
+      "createdAt": "2025-02-20T16:56:21.440495Z",
+      "updatedAt": "2025-04-14T16:56:21.440495Z"
+    },
+    {
+      "id": 23,
+      "name": "Cardigan Wanita",
+      "slug": "cardigan-wanita",
+      "description": "Cardigan Wanita dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Cardigan Wanita gaya kekinian.",
+      "price": 609342,
+      "tags": ["wanita", "santai", "luaran"],
+      "thumbnail": "https://dynamic.zacdn.com/Nu1UhFRWv12kyToyjpaX2aFlEyI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-3355-9396454-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/7Jxt7gz7jG2h5zXO7sHVOLfm5jg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-3355-9396454-2.jpg",
+        "https://dynamic.zacdn.com/GNAV0nU-citrxruhUjdvtMWcE60=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-3355-9396454-3.jpg",
+        "https://dynamic.zacdn.com/lnJydUblSBpxuZZuhHNmYOXq5gc=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-3356-9396454-4.jpg"
+      ],
+      "createdAt": "2025-02-21T16:56:21.440495Z",
+      "updatedAt": "2025-04-13T16:56:21.440495Z"
+    },
+    {
+      "id": 24,
+      "name": "Dress Mini Hitam",
+      "slug": "dress-mini-hitam",
+      "description": "Dress Mini Hitam dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Dress Mini Hitam gaya kekinian.",
+      "price": 353414,
+      "tags": ["wanita", "formal", "dress"],
+      "thumbnail": "https://dynamic.zacdn.com/nxH8LoClefTYSu_qQLn9lBbdSnQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/armonika-2118-3448064-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/G5872ftgJh16XLD__6j0GQOiQcs=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/armonika-2119-3448064-2.jpg",
+        "https://dynamic.zacdn.com/qEI2YUjyqaDj69fX_2xNrmgjo3Q=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/armonika-2119-3448064-3.jpg",
+        "https://dynamic.zacdn.com/UlPFQMAHFyXpBMF6mn_jIWoA7rI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/armonika-2119-3448064-4.jpg"
+      ],
+      "createdAt": "2025-03-15T16:56:21.440495Z",
+      "updatedAt": "2025-04-01T16:56:21.440495Z"
+    },
+    {
+      "id": 25,
+      "name": "Jaket Parka Pria",
+      "slug": "jaket-parka-pria",
+      "description": "Jaket Parka Pria dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Jaket Parka Pria gaya kekinian.",
+      "price": 257765,
+      "tags": ["pria", "elegan", "luaran"],
+      "thumbnail": "https://dynamic.zacdn.com/zJkiuHnu0r2NZVyzjKbjuXqePjw=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-7091-4132654-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/IroaLMC0xI3efvIKEEF_AuxaAEg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-1039-4132654-10.jpg",
+        "https://dynamic.zacdn.com/X0eztrVC08vo2MarBIxVkhX1EbI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-1040-4132654-11.jpg",
+        "https://dynamic.zacdn.com/9VG1S01hOMHS0QxzGf-jDkHAjGU=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/trendyol-1040-4132654-12.jpg"
+      ],
+      "createdAt": "2024-12-01T16:56:21.440495Z",
+      "updatedAt": "2025-04-02T16:56:21.440495Z"
+    },
+    {
+      "id": 26,
+      "name": "Scarf Motif",
+      "slug": "scarf-motif",
+      "description": "Scarf Motif dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Scarf Motif gaya kekinian.",
+      "price": 388881,
+      "tags": ["wanita", "kasual", "aksesoris"],
+      "thumbnail": "https://dynamic.zacdn.com/XvjZnrdhmeysIbg4S_0n72pSQpg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/san-marco-5074-4407494-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/ZLNheinDL32t9bBT4Nf68skRQUo=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/san-marco-5074-4407494-2.jpg",
+        "https://dynamic.zacdn.com/KjdBOtFonM7sYvuFpoOhEmU9Op8=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/san-marco-5074-4407494-3.jpg"
+      ],
+      "createdAt": "2024-12-10T16:56:21.440495Z",
+      "updatedAt": "2025-04-11T16:56:21.440495Z"
+    },
+    {
+      "id": 27,
+      "name": "Sepatu Lari Wanita",
+      "slug": "sepatu-lari-wanita",
+      "description": "Sepatu Lari Wanita dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Sepatu Lari Wanita gaya kekinian.",
+      "price": 309435,
+      "tags": ["wanita", "santai", "sepatu"],
+      "thumbnail": "https://dynamic.zacdn.com/dbJ2x2waPs74tyoe1RC2-b9ktPE=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/nike-7952-6768032-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/P5BIn7Um4mysoyjf6FBBf0Oa-tc=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/nike-3797-6768032-2.jpg",
+        "https://dynamic.zacdn.com/93vbZgARwW4DXIcpTjYezIQE3MA=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/nike-7953-6768032-3.jpg",
+        "https://dynamic.zacdn.com/pdfL20BGez-qY4hgNrLrIzn6VpI=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/nike-7955-6768032-4.jpg"
+      ],
+      "createdAt": "2024-10-30T16:56:21.440495Z",
+      "updatedAt": "2025-04-12T16:56:21.440495Z"
+    },
+    {
+      "id": 28,
+      "name": "Blazer Kasual Pria",
+      "slug": "blazer-kasual-pria",
+      "description": "Blazer Kasual Pria dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Blazer Kasual Pria gaya kekinian.",
+      "price": 645956,
+      "tags": ["pria", "elegan", "luaran"],
+      "thumbnail": "https://dynamic.zacdn.com/4p8X3NUizD-abhBwhanrPKWR6fw=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/avva-6819-8779864-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/dZDA8fHW-t4m_mvxn9vfiq2GyQ4=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/avva-6819-8779864-2.jpg",
+        "https://dynamic.zacdn.com/l2hICtcATwWQdJncYEm-9D9ZcTw=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/avva-6819-8779864-3.jpg",
+        "https://dynamic.zacdn.com/7NEgH2OoJjg0C1eMMqsBT2DRfVQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/avva-6819-8779864-4.jpg"
+      ],
+      "createdAt": "2025-02-12T16:56:21.440495Z",
+      "updatedAt": "2025-04-01T16:56:21.440495Z"
+    },
+    {
+      "id": 29,
+      "name": "Ransel Kulit",
+      "slug": "ransel-kulit",
+      "description": "Ransel Kulit dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Ransel Kulit gaya kekinian.",
+      "price": 255360,
+      "tags": ["unisex", "kasual", "tas"],
+      "thumbnail": "https://dynamic.zacdn.com/DlRajywNkW2YZ0EmMOpY0flBnIs=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/gucci-8855-5149184-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/l63sCIejOEeI7cBGWj4AAmBmO3Q=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/gucci-8856-5149184-2.jpg",
+        "https://dynamic.zacdn.com/6Xe3yf15jmBnYhwQ9duUHvbEyZo=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/gucci-8856-5149184-3.jpg",
+        "https://dynamic.zacdn.com/koNOUunuMpDtu3-k70TtOJKqWgY=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/gucci-8856-5149184-4.jpg"
+      ],
+      "createdAt": "2024-12-04T16:56:21.440495Z",
+      "updatedAt": "2025-04-22T16:56:21.440495Z"
+    },
+    {
+      "id": 30,
+      "name": "Kemeja Batik Modern",
+      "slug": "kemeja-batik-modern",
+      "description": "Kemeja Batik Modern dengan desain terbaru, nyaman digunakan dan cocok untuk berbagai suasana.",
+      "excerpt": "Kemeja Batik Modern gaya kekinian.",
+      "price": 292047,
+      "tags": ["pria", "elegan", "atasan"],
+      "thumbnail": "https://dynamic.zacdn.com/epUjVsz2m51PgdBHCqGG6yCqHTw=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/batik-tibodunyo-4869-8608264-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/Rs7Tv4H3oaoIqZTdmLIIzcPG-rU=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/batik-tibodunyo-4870-8608264-2.jpg",
+        "https://dynamic.zacdn.com/_b18clSTYxwkCYdWeI5IwTX1nVU=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/batik-tibodunyo-4870-8608264-3.jpg",
+        "https://dynamic.zacdn.com/fdFrMlc-nKLyGhdbL6r1SaAttzg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/batik-tibodunyo-4870-8608264-4.jpg"
+      ],
+      "createdAt": "2025-01-10T16:56:21.440495Z",
+      "updatedAt": "2025-03-31T16:56:21.440495Z"
+    },
+    {
+      "id": 31,
+      "name": "Tas Ransel Anti Air",
+      "slug": "tas-ransel-anti-air",
+      "description": "Tas Ransel Anti Air dengan desain modern, cocok untuk aktivitas outdoor maupun sehari-hari.",
+      "excerpt": "Tas Ransel Anti Air gaya modern.",
+      "price": 325000,
+      "tags": ["unisex", "outdoor", "tas"],
+      "thumbnail": "https://dynamic.zacdn.com/It9hML0BDIm82MJUi-SMct3SmyY=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/bodypack-0104-5714264-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/2cMTOV1IbNfG7QjyKPUZp6wpMW4=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/bodypack-0105-5714264-2.jpg",
+        "https://dynamic.zacdn.com/zwMbG7UxIBNuWCd9OBnpX1JzwqE=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/bodypack-0105-5714264-3.jpg",
+        "https://dynamic.zacdn.com/pPOUf5299Ctafxs9h9PI82Idq9M=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/bodypack-0105-5714264-4.jpg"
+      ],
+      "createdAt": "2025-04-25T16:56:21.440495Z",
+      "updatedAt": "2025-04-25T16:56:21.440495Z"
+    },
+    {
+      "id": 32,
+      "name": "Sepatu Formal Kulit",
+      "slug": "sepatu-formal-kulit",
+      "description": "Sepatu Formal Kulit dengan desain elegan, cocok untuk acara formal maupun kerja.",
+      "excerpt": "Sepatu Formal Kulit gaya elegan.",
+      "price": 450000,
+      "tags": ["pria", "formal", "sepatu"],
+      "thumbnail": "https://dynamic.zacdn.com/HBi8RSK0Hi0DHKwxC0ZyC7L6tL4=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/playboy-8692-3374904-1.jpg",
+      "images": [
+        "https://dynamic.zacdn.com/SeOnMa-020Iwm47e7c8ERRpRpBg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/playboy-8693-3374904-2.jpg",
+        "https://dynamic.zacdn.com/t9KFjUWlGz2hgWK-3bp_QHYCuiM=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/playboy-8693-3374904-3.jpg",
+        "https://dynamic.zacdn.com/3BJnc0O-lM6MceBsQdcEVXojyuQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/playboy-8694-3374904-4.jpg"
+      ],
+      "createdAt": "2025-04-25T16:56:21.440495Z",
+      "updatedAt": "2025-04-25T16:56:21.440495Z"
+    }
+  ]
+}
